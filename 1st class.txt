@@ -1,0 +1,4 @@
+shift + enter (to run a line)
+shift + tab (for signature)
+How many escape characters in python?
+Ans : 8
